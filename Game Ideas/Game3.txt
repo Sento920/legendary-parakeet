@@ -1,0 +1,8 @@
+
+A Text based RPG, built in Java. 
+
+Should look like its from the command line
+
+
+
+ 

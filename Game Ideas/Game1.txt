@@ -1,0 +1,9 @@
+A simple FPS, where the player is tasked with escaping/killing the onslaught of enemies. 
+
+Should be an arcade-ey feeling game, possibly in an arena or a randomly generated level system. 
+
+MVP:
+    - A single arena room
+    - Shooting Mechanic
+    - Moving Mechanic
+    - Health/Armor.

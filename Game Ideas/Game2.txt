@@ -1,0 +1,12 @@
+ 
+A Top Down RTS, built around controlling a small band of units in a randomly generated cavernous system.
+Its a cavern, so darkness should be a factor. The goal of the game would be to make it to the bottom, and collect the treasure.
+
+MVP:
+    - Unit control
+    - Darkness related mechanics
+        - torches
+        - Enemies attack in the darkness
+    
+ 
+ 
