@@ -18,12 +18,12 @@ public class Projectile : MonoBehaviour {
     private AudioClip HitByte;
     [SerializeField]
     private AudioClip MidFlightByte;
-    [SerializeField]
     public int DamageValue;
     public int DamageType;
     public float travelSpeed;
     public enum DAMAGE_TYPES { DEFAULT, LEMON , PLASMA , EXPLOSIVE };
     private Rigidbody2D rb2d;
+    public String Name;
 
 
     /*
